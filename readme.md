@@ -38,5 +38,7 @@ Contributors listed only since moving development to GitHub. [Github Contributor
 * [jmdaweb](https://github.com/jmdaweb)
 * [uta-arbeit](https://github.com/ute-arbeit)
 * [sabernhardt](https://github.com/sabernhardt)
-* Contributors: Updated for clarity by @prithi2004  
+  
+* Contributors: Updated for clarity by @prithi2004
+  
 Improved documentation formatting
